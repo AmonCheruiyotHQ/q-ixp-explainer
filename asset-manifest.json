@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ixp-score-explainer/static/css/main.e4343cc8.css",
-    "main.js": "/ixp-score-explainer/static/js/main.92ea7c12.js",
-    "index.html": "/ixp-score-explainer/index.html",
-    "main.e4343cc8.css.map": "/ixp-score-explainer/static/css/main.e4343cc8.css.map",
-    "main.92ea7c12.js.map": "/ixp-score-explainer/static/js/main.92ea7c12.js.map"
+    "main.css": "/q-ixp-explainer/static/css/main.e4343cc8.css",
+    "main.js": "/q-ixp-explainer/static/js/main.92ea7c12.js",
+    "index.html": "/q-ixp-explainer/index.html",
+    "main.e4343cc8.css.map": "/q-ixp-explainer/static/css/main.e4343cc8.css.map",
+    "main.92ea7c12.js.map": "/q-ixp-explainer/static/js/main.92ea7c12.js.map"
   },
   "entrypoints": [
     "static/css/main.e4343cc8.css",
