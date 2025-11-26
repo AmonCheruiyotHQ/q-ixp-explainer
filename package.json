@@ -1,7 +1,7 @@
 {
   "name": "q-ixp-explainer",
   "version": "0.1.0",
-  "homepage": "https://amoncheruiyothq.github.io/ixp-score-explainer",
+  "homepage": "https://amoncheruiyothq.github.io/q-ixp-explainer",
   "private": true,
   "dependencies": {
     "@supabase/supabase-js": "^2.39.0",
